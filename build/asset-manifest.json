@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/josef-benyamin-15-11-2022/static/css/main.b86f907b.css",
+    "main.js": "/josef-benyamin-15-11-2022/static/js/main.0ad9ff2b.js",
+    "static/media/loading.gif": "/josef-benyamin-15-11-2022/static/media/loading.6ad2cf1aa93796e23120.gif",
+    "index.html": "/josef-benyamin-15-11-2022/index.html",
+    "main.b86f907b.css.map": "/josef-benyamin-15-11-2022/static/css/main.b86f907b.css.map",
+    "main.0ad9ff2b.js.map": "/josef-benyamin-15-11-2022/static/js/main.0ad9ff2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b86f907b.css",
+    "static/js/main.0ad9ff2b.js"
+  ]
+}
